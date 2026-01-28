@@ -1,4 +1,4 @@
-# Monte Carlo Risk Engine 📈
+# Monte Carlo Risk Engine 
 
 A financial risk analysis tool I built to learn about quantitative finance and apply some of the maths from my engineering degree to stock market simulation.
 
