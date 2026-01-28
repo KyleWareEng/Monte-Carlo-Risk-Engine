@@ -1,0 +1,17 @@
+# Monte Carlo Risk Engine - Dependencies
+# =======================================
+# Install with: pip install -r requirements.txt
+
+# Core data manipulation and numerical computing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Financial data acquisition
+yfinance>=0.2.28
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional but recommended for enhanced functionality
+scipy>=1.10.0        # Additional statistical functions
+seaborn>=0.12.0      # Enhanced plotting (optional)
