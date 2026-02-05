@@ -44,7 +44,7 @@ The goal was to answer: **"If I buy this stock today, how much could I lose over
 
 ### Simulation Visualisation
 
-The script generates fan charts showing all 1,000 simulated price paths. The blue shaded regions show confidence intervals — 50% of paths fall within the dark band, 90% within the light band.
+The script generates fan charts showing all 1,000 simulated price paths. The blue shaded regions show confidence intervals, 50% of paths fall within the dark band, 90% within the light band.
 
 ---
 
